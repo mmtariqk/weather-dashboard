@@ -10,10 +10,15 @@ On top of that, the UI looks elegant and fully responsive, because I’ve includ
 
 ## URLs:
 
-* The URL of the deployed application.
+* GitHub Deployed URL: https://mmtariqk.github.io/weather-dashboard/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* GitHub Repository URL: https://github.com/mmtariqk/weather-dashboard 
 
 ## Screenshots:
 
+<img width="487" alt="mobile-screen" src="https://user-images.githubusercontent.com/77028806/111105364-0aaccd80-8510-11eb-8503-aff18661ce16.png">
+
+<img width="1247" alt="large-devices" src="https://user-images.githubusercontent.com/77028806/111105401-2021f780-8510-11eb-943e-59ee769b0dca.png">
+
+<img width="474" alt="5-days-forecast" src="https://user-images.githubusercontent.com/77028806/111105472-49428800-8510-11eb-8917-6c27d9d2d012.png">
 
